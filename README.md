@@ -28,8 +28,8 @@ https://brlcad.org/  \
 Maybe there are some mistakes? \
 This is coupled with the simulation experience using Python \
 I still work on it and maybe some simulations on the basis of linking the vision with the response in reality, \
-using python and opencv & cv2.ml.xxx  &knn or SVM and haar_cascade as python \ 
-cv2.createFisherFaceRecognizer() in opencv 2.4.9  \
+using python and opencv & cv2.ml.xxx  &knn or SVM and haar_cascade as python \
+cv2.createFisherFaceRecognizer() in opencv 2.4.9 \
 install !? see http://www.samontab.com/web/2014/06/installing-opencv-2-4-9-in-ubuntu-14-04-lts/ \
 cv2.face.LBPHFaceRecognizer() in opencv 3.2.0 \
 install ??? see https://shahsparx.me/install-opencv-ubuntu-python-pycharm/ \
