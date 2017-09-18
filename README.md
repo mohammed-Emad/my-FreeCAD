@@ -35,8 +35,9 @@ cv2.face.LBPHFaceRecognizer() in opencv 3.2.0 \
 install ??? see https://shahsparx.me/install-opencv-ubuntu-python-pycharm/ \
 
 .py 2.6 ,2.7 \
+.py3 3.4 ,3.5 \
 
-install on windwos send message to me \
+install on windows send message to me \
 If you want this code you probably need to send a message to me via mail. Maybe I've finished it ? \
 mohammed.imad38@yahoo.com \
 and \
