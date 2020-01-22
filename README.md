@@ -1,8 +1,8 @@
 # my-FreeCAD\
 It was compiled by a program FreeCAD 0.16 and 0.17\
-![asA]("https://github.com/mohammed-Emad/my-FreeCAD/blob/master/2017-05-12-201012_1280x800_scrot.png")
-![asB]("https://github.com/mohammed-Emad/my-FreeCAD/blob/master/2017-05-12-195702_1280x800_scrot.png") 
-![as3]("https://github.com/mohammed-Emad/my-FreeCAD/blob/master/2017-05-09-230456_1280x800_scrot.png") 
+![asA]("https://github.com/mohammed-Emad/my-FreeCAD/raw/master/2017-05-09-230456_1280x800_scrot.png")
+![asB]("https://github.com/mohammed-Emad/my-FreeCAD/raw/master/2017-05-12-195702_1280x800_scrot.png") 
+![as3]("https://github.com/mohammed-Emad/my-FreeCAD/raw/master/2017-05-09-230456_1280x800_scrot.png") 
 
 https://www.freecadweb.org/
 It has relied on ready-made, open-source libraries, which are complete \
